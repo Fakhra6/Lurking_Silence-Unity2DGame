@@ -5,9 +5,9 @@ A 2D RPG horror, creepy mansion Game  made in Unity.
 
 
 ## Controls
-![Controls] WASD - MOVE 
-![Controls] E    - INTERACT
-![Controls] CTRL - RUN
+- **WASD** – Move  
+- **E** – Interact  
+- **Ctrl** – Run
 
 
 
