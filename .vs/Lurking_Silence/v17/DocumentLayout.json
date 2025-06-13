@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity_Lab\\Lurking_Silence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|c:\\unity_lab\\lurking_silence\\assets\\scripts\\flickerzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flickerzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\openingdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\openingdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\inputinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\inputinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\playerspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\playsoundontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playsoundontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\spawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\tablewithkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tablewithkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\timermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\timertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\triggerdialoguezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggerdialoguezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\memoryfragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\memoryfragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\lightflicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lightflicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\jumpscarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jumpscarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\hiddenpathtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hiddenpathtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\ghostchasetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghostchasetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\ghostchasesequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghostchasesequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\fragmentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fragmentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\finaldialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finaldialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|C:\\Unity_Lab\\Lurking_Silence\\assets\\scripts\\dialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE4E79D-8A76-2F52-6ECD-AA4CD109E0C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpawnPoint.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\SpawnPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnPoint.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\SpawnPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:04:03.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlaySoundOnTrigger.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\PlaySoundOnTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaySoundOnTrigger.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\PlaySoundOnTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaySoundOnTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:03:24.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerSpawnManager.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\PlayerSpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpawnManager.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\PlayerSpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSpawnManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:02:54.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScript.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScript.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwDMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:02:30.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:02:04.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpeningDialogue.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\OpeningDialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OpeningDialogue.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\OpeningDialogue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OpeningDialogue.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:01:16.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\Picture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Picture.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\Picture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Picture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:01:43.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlickerZone.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\FlickerZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlickerZone.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\FlickerZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlickerZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:55:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TableWithKey.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\TableWithKey.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TableWithKey.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\TableWithKey.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TableWithKey.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:04:35.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UIManager.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\UIManager.cs",
+              "RelativeToolTip": "Assets\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:06:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputInitializer.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\InputInitializer.cs",
+              "RelativeDocumentMoniker": "Assets\\InputInitializer.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\InputInitializer.cs",
+              "RelativeToolTip": "Assets\\InputInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:14:46.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerControls.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\PlayerControls.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerControls.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\PlayerControls.cs",
+              "RelativeToolTip": "Assets\\PlayerControls.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:49:09.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BackgroundMusic.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\BackgroundMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundMusic.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\BackgroundMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundMusic.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:42:35.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueManager.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueManager.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwvwkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:53:12.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimerManager.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\TimerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimerManager.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\TimerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimerManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA1wEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:04:58.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimerTrigger.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\TimerTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimerTrigger.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\TimerTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimerTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:05:31.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TriggerDialogueZone.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\TriggerDialogueZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerDialogueZone.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\TriggerDialogueZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriggerDialogueZone.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:06:02.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MemoryFragment.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\MemoryFragment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MemoryFragment.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\MemoryFragment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MemoryFragment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:00:44.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LightFlicker.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\LightFlicker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LightFlicker.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\LightFlicker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LightFlicker.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:59:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JumpscareController.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\JumpscareController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JumpscareController.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\JumpscareController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JumpscareController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:59:26.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryManager.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:58:27.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:57:51.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HiddenPathTrigger.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\HiddenPathTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HiddenPathTrigger.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\HiddenPathTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HiddenPathTrigger.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:57:20.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GhostChaseTrigger.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\GhostChaseTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GhostChaseTrigger.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\GhostChaseTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GhostChaseTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:56:56.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:09:41.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GhostChaseSequence.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\GhostChaseSequence.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GhostChaseSequence.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\GhostChaseSequence.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GhostChaseSequence.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:56:25.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FragmentUI.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\FragmentUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FragmentUI.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\FragmentUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FragmentUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:56:00.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FinalDialogueTrigger.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\FinalDialogueTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinalDialogueTrigger.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\FinalDialogueTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinalDialogueTrigger.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:55:04.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:54:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DialogueTrigger.cs",
+              "DocumentMoniker": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\DialogueTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueTrigger.cs",
+              "ToolTip": "C:\\Unity_Lab\\Lurking_Silence\\Assets\\Scripts\\DialogueTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:53:54.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

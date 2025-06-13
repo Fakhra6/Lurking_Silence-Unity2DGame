@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: c00edeeed6a3a9747acd49af083e4e8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4922057688014291494
+    second: with_flashlight 1_0
+  - first:
+      213: -8694918322775854538
+    second: with_flashlight 1_1
+  - first:
+      213: -3883547010864161706
+    second: with_flashlight 1_2
+  - first:
+      213: -4493928228551266769
+    second: with_flashlight 1_3
+  - first:
+      213: 5922055176798496837
+    second: with_flashlight 1_4
+  - first:
+      213: -4020736793296335016
+    second: with_flashlight 1_5
+  - first:
+      213: -3212266581870278622
+    second: with_flashlight 1_6
+  - first:
+      213: -2279486890395695466
+    second: with_flashlight 1_7
+  - first:
+      213: 7048769839142976465
+    second: with_flashlight 1_8
+  - first:
+      213: -8865020786070389892
+    second: with_flashlight 1_9
+  - first:
+      213: 3260888666241083718
+    second: with_flashlight 1_10
+  - first:
+      213: 6700637469229058608
+    second: with_flashlight 1_11
+  - first:
+      213: -4799351568645269006
+    second: with_flashlight 1_12
+  - first:
+      213: 7001811267464811406
+    second: with_flashlight 1_13
+  - first:
+      213: -1952029117483701550
+    second: with_flashlight 1_14
+  - first:
+      213: -8437586790513195645
+    second: with_flashlight 1_15
+  - first:
+      213: 5939881803892251552
+    second: with_flashlight 1_16
+  - first:
+      213: 7022719277172503889
+    second: with_flashlight 1_17
+  - first:
+      213: -1923785841841917025
+    second: with_flashlight 1_18
+  - first:
+      213: 4565354492781588785
+    second: with_flashlight 1_19
+  - first:
+      213: 2846666723791911349
+    second: with_flashlight 1_20
+  - first:
+      213: -3380867375420378903
+    second: with_flashlight 1_21
+  - first:
+      213: 604669682947537419
+    second: with_flashlight 1_22
+  - first:
+      213: -9158824591818756121
+    second: with_flashlight 1_23
+  - first:
+      213: -7247866360633856019
+    second: with_flashlight 1_24
+  - first:
+      213: 4378064674248573474
+    second: with_flashlight 1_25
+  - first:
+      213: 6861798714907018924
+    second: with_flashlight 1_26
+  - first:
+      213: 5089238782129200304
+    second: with_flashlight 1_27
+  - first:
+      213: -639461486133150719
+    second: with_flashlight 1_28
+  - first:
+      213: -8203791939962533929
+    second: with_flashlight 1_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: with_flashlight 1_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 449
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622821a9369ae4440800000000000000
+      internalID: 4922057688014291494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 449
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632f8e36ad1755780800000000000000
+      internalID: -8694918322775854538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 385
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c59ecc19eda1ac0800000000000000
+      internalID: -3883547010864161706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 385
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ee913061c52a1c0800000000000000
+      internalID: -4493928228551266769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 385
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54866519ecd5f2250800000000000000
+      internalID: 5922055176798496837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 385
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f8a3470397338c0800000000000000
+      internalID: -4020736793296335016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 385
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22883c7209cbb63d0800000000000000
+      internalID: -3212266581870278622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 385
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6960ecb10c2ad50e0800000000000000
+      internalID: -2279486890395695466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 385
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbba9d92d242d160800000000000000
+      internalID: 7048769839142976465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 385
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bf1df509e19f480800000000000000
+      internalID: -8865020786070389892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 321
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649a56b07f0014d20800000000000000
+      internalID: 3260888666241083718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 321
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a021ad6427dfc50800000000000000
+      internalID: 6700637469229058608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f95fa62d27456db0800000000000000
+      internalID: -4799351568645269006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 257
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e835195204e6b2160800000000000000
+      internalID: 7001811267464811406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 257
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da2a252cdff8e4e0800000000000000
+      internalID: -1952029117483701550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 257
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385ceeda48ba7ea80800000000000000
+      internalID: -8437586790513195645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 257
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abddc0a703be6250800000000000000
+      internalID: 5939881803892251552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 257
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155b72189f5b57160800000000000000
+      internalID: 7022719277172503889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 193
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93361138f65d45e0800000000000000
+      internalID: -1923785841841917025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 193
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131faff09b56b5f30800000000000000
+      internalID: 4565354492781588785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9ba819d44618720800000000000000
+      internalID: 2846666723791911349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 193
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e07c5fd80fb411d0800000000000000
+      internalID: -3380867375420378903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a398a7fd7346800800000000000000
+      internalID: 604669682947537419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efe78c2f8155e080800000000000000
+      internalID: -9158824591818756121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 129
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def6ae222f76a6b90800000000000000
+      internalID: -7247866360633856019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 129
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222c54010a202cc30800000000000000
+      internalID: 4378064674248573474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 129
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6c34a63910a3f50800000000000000
+      internalID: 6861798714907018924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_27
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 129
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcd3f955bb90a640800000000000000
+      internalID: 5089238782129200304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 139
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c7d779a2d2027f0800000000000000
+      internalID: -639461486133150719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: with_flashlight 1_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 139
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7025732b6462e80800000000000000
+      internalID: -8203791939962533929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      with_flashlight 1_0: 4922057688014291494
+      with_flashlight 1_1: -8694918322775854538
+      with_flashlight 1_10: 3260888666241083718
+      with_flashlight 1_11: 6700637469229058608
+      with_flashlight 1_12: -4799351568645269006
+      with_flashlight 1_13: 7001811267464811406
+      with_flashlight 1_14: -1952029117483701550
+      with_flashlight 1_15: -8437586790513195645
+      with_flashlight 1_16: 5939881803892251552
+      with_flashlight 1_17: 7022719277172503889
+      with_flashlight 1_18: -1923785841841917025
+      with_flashlight 1_19: 4565354492781588785
+      with_flashlight 1_2: -3883547010864161706
+      with_flashlight 1_20: 2846666723791911349
+      with_flashlight 1_21: -3380867375420378903
+      with_flashlight 1_22: 604669682947537419
+      with_flashlight 1_23: -9158824591818756121
+      with_flashlight 1_24: -7247866360633856019
+      with_flashlight 1_25: 4378064674248573474
+      with_flashlight 1_26: 6861798714907018924
+      with_flashlight 1_27: 5089238782129200304
+      with_flashlight 1_28: -639461486133150719
+      with_flashlight 1_29: -8203791939962533929
+      with_flashlight 1_3: -4493928228551266769
+      with_flashlight 1_4: 5922055176798496837
+      with_flashlight 1_5: -4020736793296335016
+      with_flashlight 1_6: -3212266581870278622
+      with_flashlight 1_7: -2279486890395695466
+      with_flashlight 1_8: 7048769839142976465
+      with_flashlight 1_9: -8865020786070389892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
